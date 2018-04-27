@@ -13,7 +13,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-
+//
 package com.calendarfx.app;
 
 import com.calendarfx.model.Calendar;
@@ -43,7 +43,7 @@ public class CalendarApp extends Application {
         Calendar birthdays = new Calendar("Birthdays");
         Calendar holidays = new Calendar("Holidays");
 
-        katja.setShortName("K");
+        katja.setShortName("K"); // jjfjgdjkfgjdfghkdjfghjkdf
         dirk.setShortName("D");
         philip.setShortName("P");
         jule.setShortName("J");
