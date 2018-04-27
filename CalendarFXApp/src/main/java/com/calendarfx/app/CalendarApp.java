@@ -37,7 +37,7 @@ public class CalendarApp extends Application {
 
         Calendar katja = new Calendar("Katja");
         Calendar dirk = new Calendar("Dirk");
-        Calendar philip = new Calendar("Philip");
+        Calendar philip = new Calendar("Philip"); //kjsdhfskd
         Calendar jule = new Calendar("Jule");
         Calendar armin = new Calendar("Armin");
         Calendar birthdays = new Calendar("Birthdays");
